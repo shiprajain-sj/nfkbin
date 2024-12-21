@@ -1,0 +1,13 @@
+1. Prerequest
+==========
+--In order to run this program user should have Python3, library scikit-learn, Open Babel and PaDEL-Descriptor.
+
+2. Download Site
+=================
+URL: https://webs.iiitd.edu.in/raghava/nfkbin/standalone.php
+
+3. Unzip/Untar
+
+4. Change dir to nfkbin
+
+5. python nfkbin.py -h (Minimum Usage)
