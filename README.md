@@ -9,7 +9,7 @@ The Standalone version of NF-kBIn is written in python3 and following libraries 
 - scikit-learn
 - Pandas
 - Numpy
-- obabel (http://openbabel.org/docs/index.html)
+- openbabel (http://openbabel.org/docs/index.html)
 - PaDEL-Descriptor (http://yapcwsoft.com/dd/padeldescriptor/PaDEL-Descriptor.zip)
 
 ## Minimum USAGE
